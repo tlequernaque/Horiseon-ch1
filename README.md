@@ -9,11 +9,7 @@ This webpage was refactored to make it more accessible and was optimized for sea
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
-
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
+![](Hsite-screenshot.png)
 
 ## Available Commands
 
