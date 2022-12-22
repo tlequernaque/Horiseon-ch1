@@ -5,7 +5,7 @@ This webpage was refactored to make it more accessible and was optimized for sea
 
 ## Links
 
-- [Live](<Homepage url> "Live View")
+- [Live](https://tlequernaque.github.io/Horiseon-ch1/)
 
 ## Screenshots
 
